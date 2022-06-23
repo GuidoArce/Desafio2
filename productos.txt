@@ -1,0 +1,20 @@
+[
+    {
+        tittle: 'Gorra',
+        price: 3500,
+        thumbnail: 'https://w7.pngwing.com/pngs/483/166/png-transparent-baseball-cap-red-brooch-color-gorras-blue-white-hat.png',
+        id: 1
+    },
+        {
+        tittle: 'Pantalon',
+        price: 8000,
+        thumbnail: 'https://img2.freepng.es/20180724/yzh/kisspng-pants-navy-blue-jeans-t-shirt-jeans-pocket-5b56a7db25cf78.2130654315324057231549.jpg',
+        id: 2
+    },
+        {
+        tittle: 'Buzo',
+        price: 15000,
+        thumbnail: 'https://http2.mlstatic.com/D_NQ_NP_605835-MLA49285165893_032022-V.jpg',
+        id: 3
+    }
+]
